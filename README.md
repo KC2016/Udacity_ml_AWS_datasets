@@ -1,2 +1,2 @@
-# Udacity_ml_AWS
+# Udacity_ml_AWS_datasets
 foundation couse
